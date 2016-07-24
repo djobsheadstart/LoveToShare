@@ -1,0 +1,17 @@
+Hi abhiguptame!
+
+Following resources would be helpful to get started with angularjs:
+
+https://docs.angularjs.org/tutorial
+https://www.codeschool.com/pages/angular-1-vs-2
+https://www.youtube.com/user/angularjs
+
+You might be interested in angularjs source code.
+Find it here:
+https://github.com/angular/angular.js
+
+I hope, it will be helpful!
+
+Thank You!
+
+Abhishek
